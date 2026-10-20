@@ -1,0 +1,15 @@
+name="主人"
+age="20"
+height=1.75
+is_learning=True
+favorite="编程"
+print(name)
+print(age)
+print(height)
+print(is_learning)
+print(favorite)
+print(type(age))
+print(type(name))
+print(type(height))
+print(type(is_learning))
+print(type(favorite))
