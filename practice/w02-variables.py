@@ -1,5 +1,6 @@
+# 变量练习,用type判断变量
 name="主人"
-age="20"
+age=20
 height=1.75
 is_learning=True
 favorite="编程"
@@ -13,3 +14,5 @@ print(type(name))
 print(type(height))
 print(type(is_learning))
 print(type(favorite))
+print(age==20)
+print(age==21)
